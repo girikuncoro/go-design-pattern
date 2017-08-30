@@ -8,19 +8,19 @@ type Coffee interface {
 
 type EspressoCoffee struct{}
 
-func (espresso *EspressoCoffee) Brew() string {
+func (ec *EspressoCoffee) Brew() string {
 	return "Pour espresso coffee"
 }
 
 type MacchiatoCoffee struct{}
 
-func (macchiato *MacchiatoCoffee) Brew() string {
+func (mc *MacchiatoCoffee) Brew() string {
 	return "Pour macchiato coffee"
 }
 
 type CapuccinoCoffee struct{}
 
-func (capuccino *CapuccinoCoffee) Brew() string {
+func (cc *CapuccinoCoffee) Brew() string {
 	return "Pour capuccino coffee"
 }
 
