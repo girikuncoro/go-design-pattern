@@ -6,11 +6,11 @@ Collection of design pattern implementation in Go
 - [x] Builder
 - [x] Factory Method
 - [ ] Object Pool
-- [ ] Prototype
+- [x] Prototype
 - [x] Singleton
 
 ## Structural patterns
-- [ ] Adapter
+- [x] Adapter
 - [ ] Bridge
 - [ ] Composite
 - [ ] Decorator
