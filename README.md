@@ -11,11 +11,11 @@ Collection of design pattern implementation in Go
 
 ## Structural patterns
 - [x] Adapter
-- [ ] Bridge
+- [x] Bridge
 - [ ] Composite
 - [ ] Decorator
-- [ ] Facade
-- [ ] Flyweight
+- [x] Facade
+- [x] Flyweight
 - [ ] Private Class Data
 - [ ] Proxy
 
