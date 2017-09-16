@@ -12,7 +12,7 @@ Collection of design pattern implementation in Go
 ## Structural patterns
 - [x] Adapter
 - [x] Bridge
-- [ ] Composite
+- [x] Composite
 - [ ] Decorator
 - [x] Facade
 - [x] Flyweight
