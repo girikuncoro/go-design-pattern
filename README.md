@@ -17,7 +17,7 @@ Collection of design pattern implementation in Go
 - [x] Facade
 - [x] Flyweight
 - [ ] Private Class Data
-- [ ] Proxy
+- [x] Proxy
 
 ## Behavioral patterns
 - [ ] Chain of Responsibility
