@@ -13,14 +13,14 @@ Collection of design pattern implementation in Go
 - [x] Adapter
 - [x] Bridge
 - [x] Composite
-- [ ] Decorator
+- [x] Decorator
 - [x] Facade
 - [x] Flyweight
 - [ ] Private Class Data
 - [x] Proxy
 
 ## Behavioral patterns
-- [ ] Chain of Responsibility
+- [x] Chain of Responsibility
 - [ ] Command
 - [ ] Interpreter
 - [ ] Iterator
