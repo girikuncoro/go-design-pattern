@@ -21,13 +21,13 @@ Collection of design pattern implementation in Go
 
 ## Behavioral patterns
 - [x] Chain of Responsibility
-- [ ] Command
-- [ ] Interpreter
-- [ ] Iterator
+- [x] Command
+- [x] Interpreter
+- [x] Iterator
 - [ ] Mediator
 - [ ] Memento
 - [ ] Null Object
-- [ ] Observer
+- [x] Observer
 - [ ] Registry
 - [ ] State
 - [ ] Strategy
