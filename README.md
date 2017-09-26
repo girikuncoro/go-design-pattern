@@ -25,7 +25,7 @@ Collection of design pattern implementation in Go
 - [x] Interpreter
 - [x] Iterator
 - [ ] Mediator
-- [ ] Memento
+- [x] Memento
 - [ ] Null Object
 - [x] Observer
 - [ ] Registry
