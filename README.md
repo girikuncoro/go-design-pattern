@@ -30,6 +30,6 @@ Collection of design pattern implementation in Go
 - [x] Observer
 - [ ] Registry
 - [ ] State
-- [ ] Strategy
-- [ ] Template
+- [x] Strategy
+- [x] Template
 - [ ] Visitor
