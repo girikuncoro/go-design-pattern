@@ -29,7 +29,7 @@ Collection of design pattern implementation in Go
 - [ ] Null Object
 - [x] Observer
 - [ ] Registry
-- [ ] State
+- [x] State
 - [x] Strategy
 - [x] Template
 - [ ] Visitor
