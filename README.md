@@ -32,4 +32,4 @@ Collection of design pattern implementation in Go
 - [x] State
 - [x] Strategy
 - [x] Template
-- [ ] Visitor
+- [x] Visitor
