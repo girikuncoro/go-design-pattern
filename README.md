@@ -5,7 +5,7 @@ Collection of design pattern implementation in Go
 - [x] Abstract Factory 
 - [x] Builder
 - [x] Factory Method
-- [ ] Object Pool
+- [x] Object Pool
 - [x] Prototype
 - [x] Singleton
 
@@ -16,7 +16,7 @@ Collection of design pattern implementation in Go
 - [x] Decorator
 - [x] Facade
 - [x] Flyweight
-- [ ] Private Class Data
+- [x] Private Class Data
 - [x] Proxy
 
 ## Behavioral patterns
@@ -26,9 +26,8 @@ Collection of design pattern implementation in Go
 - [x] Iterator
 - [x] Mediator
 - [x] Memento
-- [ ] Null Object
+- [x] Null Object
 - [x] Observer
-- [ ] Registry
 - [x] State
 - [x] Strategy
 - [x] Template
