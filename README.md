@@ -25,15 +25,17 @@ Collection of design pattern implementation in Go
 | [Proxy](https://github.com/girikuncoro/go-design-pattern/blob/master/proxy/proxy.go) |        |
 
 ## Behavioral patterns
-- [x] Chain of Responsibility
-- [x] Command
-- [x] Interpreter
-- [x] Iterator
-- [x] Mediator
-- [x] Memento
-- [x] Null Object
-- [x] Observer
-- [x] State
-- [x] Strategy
-- [x] Template
-- [x] Visitor
+| Pattern          | Description |
+|------------------|-------------|
+| [Chain of Responsibility](https://github.com/girikuncoro/go-design-pattern/blob/master/chain-of-responsibility/chain-of-responsibility.go) |        |
+| [Command](https://github.com/girikuncoro/go-design-pattern/blob/master/command/command.go) |        |
+| [Interpreter](https://github.com/girikuncoro/go-design-pattern/blob/master/interpreter/interpreter.go) |        |
+| [Iterator](https://github.com/girikuncoro/go-design-pattern/blob/master/iterator/iterator.go) |        |
+| [Mediator](https://github.com/girikuncoro/go-design-pattern/blob/master/mediator/mediator.go) |        |
+| [Memento](https://github.com/girikuncoro/go-design-pattern/blob/master/memento/memento.go) |        |
+| [Null Object](https://github.com/girikuncoro/go-design-pattern/blob/master/null-object/null-object.go) |        |
+| [Observer](https://github.com/girikuncoro/go-design-pattern/blob/master/observer/observer.go) |        |
+| [State](https://github.com/girikuncoro/go-design-pattern/blob/master/state/state.go) |        |
+| [Strategy](https://github.com/girikuncoro/go-design-pattern/blob/master/strategy/strategy.go) |        |
+| [Template](https://github.com/girikuncoro/go-design-pattern/blob/master/template/template.go) |        |
+| [Visitor](https://github.com/girikuncoro/go-design-pattern/blob/master/visitor/visitor.go) |        |
