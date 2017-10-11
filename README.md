@@ -15,14 +15,14 @@ Collection of design pattern implementation in Go
 ## Structural patterns
 | Pattern          | Description |
 |------------------|-------------|
-| [Adapter](https://github.com/girikuncoro/go-design-pattern/blob/master/adapter/adapter.go) |        |
-| [Bridge](https://github.com/girikuncoro/go-design-pattern/blob/master/bridge/bridge.go) |        |
-| [Composite](https://github.com/girikuncoro/go-design-pattern/blob/master/composite/composite.go) |        |
-| [Decorator](https://github.com/girikuncoro/go-design-pattern/blob/master/decorator/decorator.go) |        |
-| [Facade](https://github.com/girikuncoro/go-design-pattern/blob/master/facade/facade.go) |        |
-| [Flyweight](https://github.com/girikuncoro/go-design-pattern/blob/master/flyweight/flyweight.go) |        |
+| [Adapter](https://github.com/girikuncoro/go-design-pattern/blob/master/adapter/adapter.go) | Convert the interface of a class into another interface clients expect. Adapter lets classes work together that couldn't otherwise because of incompatible interfaces.       |
+| [Bridge](https://github.com/girikuncoro/go-design-pattern/blob/master/bridge/bridge.go) | Decouple an abstraction from its implementation so that the two can cary independently.       |
+| [Composite](https://github.com/girikuncoro/go-design-pattern/blob/master/composite/composite.go) | Compose objects into tree structures to represent part-whole hierarchies. Composite lets clients treat individual objects and compositions of objects uniformly.       |
+| [Decorator](https://github.com/girikuncoro/go-design-pattern/blob/master/decorator/decorator.go) | Attach additional responsibilities to an objet dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.       |
+| [Facade](https://github.com/girikuncoro/go-design-pattern/blob/master/facade/facade.go) | Provide a unified interface to a set of interfaces in a subsystem. Faade defines a higher-level interface that makes the subsystem easier to use.       |
+| [Flyweight](https://github.com/girikuncoro/go-design-pattern/blob/master/flyweight/flyweight.go) | Use sharing to support large numbers of fine-grained objects efficiently.       |
 | [Private Class Data](https://github.com/girikuncoro/go-design-pattern/blob/master/private-class-data/private-class-data.go) |        |
-| [Proxy](https://github.com/girikuncoro/go-design-pattern/blob/master/proxy/proxy.go) |        |
+| [Proxy](https://github.com/girikuncoro/go-design-pattern/blob/master/proxy/proxy.go) | Provide a surrogate or placeholder for another object to control access to it.       |
 
 ## Behavioral patterns
 | Pattern          | Description |
@@ -39,3 +39,7 @@ Collection of design pattern implementation in Go
 | [Strategy](https://github.com/girikuncoro/go-design-pattern/blob/master/strategy/strategy.go) |        |
 | [Template](https://github.com/girikuncoro/go-design-pattern/blob/master/template/template.go) |        |
 | [Visitor](https://github.com/girikuncoro/go-design-pattern/blob/master/visitor/visitor.go) |        |
+
+### References
+* [Design Patterns: Elements Reusable Object Book](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+* [Sourcemaking](https://sourcemaking.com/design_patterns)
