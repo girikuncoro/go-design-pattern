@@ -13,14 +13,16 @@ Collection of design pattern implementation in Go
 | [Singleton](https://github.com/girikuncoro/go-design-pattern/blob/master/singleton/singleton.go)                 |  Ensure a class only has one instance, and provide a global point of access to it.           |
 
 ## Structural patterns
-- [x] Adapter
-- [x] Bridge
-- [x] Composite
-- [x] Decorator
-- [x] Facade
-- [x] Flyweight
-- [x] Private Class Data
-- [x] Proxy
+| Pattern          | Description |
+|------------------|-------------|
+| [Adapter](https://github.com/girikuncoro/go-design-pattern/blob/master/adapter/adapter.go) |        |
+| [Bridge](https://github.com/girikuncoro/go-design-pattern/blob/master/bridge/bridge.go) |        |
+| [Composite](https://github.com/girikuncoro/go-design-pattern/blob/master/composite/composite.go) |        |
+| [Decorator](https://github.com/girikuncoro/go-design-pattern/blob/master/decorator/decorator.go) |        |
+| [Facade](https://github.com/girikuncoro/go-design-pattern/blob/master/facade/facade.go) |        |
+| [Flyweight](https://github.com/girikuncoro/go-design-pattern/blob/master/flyweight/flyweight.go) |        |
+| [Private Class Data](https://github.com/girikuncoro/go-design-pattern/blob/master/private-class-data/private-class-data.go) |        |
+| [Proxy](https://github.com/girikuncoro/go-design-pattern/blob/master/proxy/proxy.go) |        |
 
 ## Behavioral patterns
 - [x] Chain of Responsibility
