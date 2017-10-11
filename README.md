@@ -18,7 +18,7 @@ Collection of design pattern implementation in Go
 | [Adapter](https://github.com/girikuncoro/go-design-pattern/blob/master/adapter/adapter.go) | Convert the interface of a class into another interface clients expect. Adapter lets classes work together that couldn't otherwise because of incompatible interfaces.       |
 | [Bridge](https://github.com/girikuncoro/go-design-pattern/blob/master/bridge/bridge.go) | Decouple an abstraction from its implementation so that the two can cary independently.       |
 | [Composite](https://github.com/girikuncoro/go-design-pattern/blob/master/composite/composite.go) | Compose objects into tree structures to represent part-whole hierarchies. Composite lets clients treat individual objects and compositions of objects uniformly.       |
-| [Decorator](https://github.com/girikuncoro/go-design-pattern/blob/master/decorator/decorator.go) | Attach additional responsibilities to an objet dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.       |
+| [Decorator](https://github.com/girikuncoro/go-design-pattern/blob/master/decorator/decorator.go) | Attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.       |
 | [Facade](https://github.com/girikuncoro/go-design-pattern/blob/master/facade/facade.go) | Provide a unified interface to a set of interfaces in a subsystem. Faade defines a higher-level interface that makes the subsystem easier to use.       |
 | [Flyweight](https://github.com/girikuncoro/go-design-pattern/blob/master/flyweight/flyweight.go) | Use sharing to support large numbers of fine-grained objects efficiently.       |
 | [Private Class Data](https://github.com/girikuncoro/go-design-pattern/blob/master/private-class-data/private-class-data.go) |        |
@@ -30,15 +30,15 @@ Collection of design pattern implementation in Go
 | [Chain of Responsibility](https://github.com/girikuncoro/go-design-pattern/blob/master/chain-of-responsibility/chain-of-responsibility.go) | Avoid coupling the sender of a request to its receiver by giving more than one object a chance to handle the request. Chain the receiving objects and pass the request along the chain until an object handles it.       |
 | [Command](https://github.com/girikuncoro/go-design-pattern/blob/master/command/command.go) | Encapsulate a request as an object, thereby letting you parameterize clients with different requests, queue or log requests, and support undoable operations.       |
 | [Interpreter](https://github.com/girikuncoro/go-design-pattern/blob/master/interpreter/interpreter.go) | Given a language, define a representation for its grammar along with an interpreter that uses the representation to interpret sentences in the language.       |
-| [Iterator](https://github.com/girikuncoro/go-design-pattern/blob/master/iterator/iterator.go) | Provide a way to access the elements of an aggregate objevt sequentially without exposing its underlying its representation.        |
-| [Mediator](https://github.com/girikuncoro/go-design-pattern/blob/master/mediator/mediator.go) |        |
-| [Memento](https://github.com/girikuncoro/go-design-pattern/blob/master/memento/memento.go) |        |
+| [Iterator](https://github.com/girikuncoro/go-design-pattern/blob/master/iterator/iterator.go) | Provide a way to access the elements of an aggregate object sequentially without exposing its underlying its representation.        |
+| [Mediator](https://github.com/girikuncoro/go-design-pattern/blob/master/mediator/mediator.go) | Define an object that encapsulates how a set of objevts interact. Mediator promotes loose coupling by keeping objevts from referring to each other explicitly, and it lets you vary their interaction independently.       |
+| [Memento](https://github.com/girikuncoro/go-design-pattern/blob/master/memento/memento.go) | Without violating encapsulation, capture and externalize an object's internal state so that the object can be restored to this state later.       |
 | [Null Object](https://github.com/girikuncoro/go-design-pattern/blob/master/null-object/null-object.go) |        |
-| [Observer](https://github.com/girikuncoro/go-design-pattern/blob/master/observer/observer.go) |        |
-| [State](https://github.com/girikuncoro/go-design-pattern/blob/master/state/state.go) |        |
-| [Strategy](https://github.com/girikuncoro/go-design-pattern/blob/master/strategy/strategy.go) |        |
-| [Template](https://github.com/girikuncoro/go-design-pattern/blob/master/template/template.go) |        |
-| [Visitor](https://github.com/girikuncoro/go-design-pattern/blob/master/visitor/visitor.go) |        |
+| [Observer](https://github.com/girikuncoro/go-design-pattern/blob/master/observer/observer.go) | Define a one-to-many dependency between objects so that when one objet changes state, all its dependents are notified and updated automatically.       |
+| [State](https://github.com/girikuncoro/go-design-pattern/blob/master/state/state.go) | Allow an object to alter its behavior when its internal state changes. The object will appear to change its class.       |
+| [Strategy](https://github.com/girikuncoro/go-design-pattern/blob/master/strategy/strategy.go) | Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it.       |
+| [Template](https://github.com/girikuncoro/go-design-pattern/blob/master/template/template.go) | Define the skeleton of an algorithm in an operation, deferring some steps to subclasses. Template method lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure.       |
+| [Visitor](https://github.com/girikuncoro/go-design-pattern/blob/master/visitor/visitor.go) | Represent an operation to be performed on the elements of an object structure. Visitor lets you define a new operation without changing the classes of the elements on which it operates.        |
 
 ### References
 * [Design Patterns: Elements Reusable Object Book](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
