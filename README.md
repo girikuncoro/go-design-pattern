@@ -8,7 +8,7 @@ Collection of design pattern implementation in Go
 | [Abstract Factory](https://github.com/girikuncoro/go-design-pattern/blob/master/abstract-factory/abstract-factory.go) | Provide an interface for creating families of related or dependent objects without specifying their concrete classes.        |
 | [Builder](https://github.com/girikuncoro/go-design-pattern/blob/master/builder/builder.go)                 | Separate the construction of a complex object from its representation so that the same construction process can create different representations.            | 
 | [Factory Method](https://github.com/girikuncoro/go-design-pattern/blob/master/factory/factory.go)                 | Define an interface for creating an object, but let subclasses decide which class to instantiate. Factory method lets a class defer instantiation to subclasses.            |
-| [Object Pool](https://github.com/girikuncoro/go-design-pattern/blob/master/object-pool/object-pool.go)                 |             |
+| [Object Pool](https://github.com/girikuncoro/go-design-pattern/blob/master/object-pool/object-pool.go)                 | Instantiates and maintains a group of objects instances of the same type.            |
 | [Prototype](https://github.com/girikuncoro/go-design-pattern/blob/master/prototype/prototype.go)                 | Specify the kinds of objects to create using a prototypical instance, and create new objects by copying this prototype.            |
 | [Singleton](https://github.com/girikuncoro/go-design-pattern/blob/master/singleton/singleton.go)                 |  Ensure a class only has one instance, and provide a global point of access to it.           |
 
@@ -43,3 +43,4 @@ Collection of design pattern implementation in Go
 ### References
 * [Design Patterns: Elements Reusable Object Book](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
 * [Sourcemaking](https://sourcemaking.com/design_patterns)
+* [Tmrts Go Patterns](http://tmrts.com/go-patterns)
