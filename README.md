@@ -21,7 +21,7 @@ Collection of design pattern implementation in Go
 | [Decorator](https://github.com/girikuncoro/go-design-pattern/blob/master/decorator/decorator.go) | Attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.       |
 | [Facade](https://github.com/girikuncoro/go-design-pattern/blob/master/facade/facade.go) | Provide a unified interface to a set of interfaces in a subsystem. Faade defines a higher-level interface that makes the subsystem easier to use.       |
 | [Flyweight](https://github.com/girikuncoro/go-design-pattern/blob/master/flyweight/flyweight.go) | Use sharing to support large numbers of fine-grained objects efficiently.       |
-| [Private Class Data](https://github.com/girikuncoro/go-design-pattern/blob/master/private-class-data/private-class-data.go) |        |
+| [Private Class Data](https://github.com/girikuncoro/go-design-pattern/blob/master/private-class-data/private-class-data.go) | Protect class state by minimizing the visibility of its attributes (data).       |
 | [Proxy](https://github.com/girikuncoro/go-design-pattern/blob/master/proxy/proxy.go) | Provide a surrogate or placeholder for another object to control access to it.       |
 
 ## Behavioral patterns
@@ -33,7 +33,7 @@ Collection of design pattern implementation in Go
 | [Iterator](https://github.com/girikuncoro/go-design-pattern/blob/master/iterator/iterator.go) | Provide a way to access the elements of an aggregate object sequentially without exposing its underlying its representation.        |
 | [Mediator](https://github.com/girikuncoro/go-design-pattern/blob/master/mediator/mediator.go) | Define an object that encapsulates how a set of objevts interact. Mediator promotes loose coupling by keeping objevts from referring to each other explicitly, and it lets you vary their interaction independently.       |
 | [Memento](https://github.com/girikuncoro/go-design-pattern/blob/master/memento/memento.go) | Without violating encapsulation, capture and externalize an object's internal state so that the object can be restored to this state later.       |
-| [Null Object](https://github.com/girikuncoro/go-design-pattern/blob/master/null-object/null-object.go) |        |
+| [Null Object](https://github.com/girikuncoro/go-design-pattern/blob/master/null-object/null-object.go) | Encapsulate the absence of an object by providing a substitutable alternative that offers suitable default do nothing behavior.       |
 | [Observer](https://github.com/girikuncoro/go-design-pattern/blob/master/observer/observer.go) | Define a one-to-many dependency between objects so that when one objet changes state, all its dependents are notified and updated automatically.       |
 | [State](https://github.com/girikuncoro/go-design-pattern/blob/master/state/state.go) | Allow an object to alter its behavior when its internal state changes. The object will appear to change its class.       |
 | [Strategy](https://github.com/girikuncoro/go-design-pattern/blob/master/strategy/strategy.go) | Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it.       |
