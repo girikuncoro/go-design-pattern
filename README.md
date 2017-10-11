@@ -40,7 +40,49 @@ Collection of design pattern implementation in Go
 | [Template](https://github.com/girikuncoro/go-design-pattern/blob/master/template/template.go) | Define the skeleton of an algorithm in an operation, deferring some steps to subclasses. Template method lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure.       |
 | [Visitor](https://github.com/girikuncoro/go-design-pattern/blob/master/visitor/visitor.go) | Represent an operation to be performed on the elements of an object structure. Visitor lets you define a new operation without changing the classes of the elements on which it operates.        |
 
-### References
+## TODO
+### Synchronization Patterns
+- [ ] Condition Variable
+- [ ] Lock/Mutex
+- [ ] Monitor
+- [ ] Read-Write Lock
+- [ ] Semaphore
+
+### Concurrency Patterns
+- [ ] N-Barrier
+- [ ] Bounded Parallelism
+- [ ] Broadcast
+- [ ] Coroutines
+- [ ] Generators
+- [ ] Reactor
+- [ ] Parallelism
+- [ ] Producer Consumer
+
+### Messaging Patterns
+- [ ] Fan-In
+- [ ] Fan-Out
+- [ ] Futures & Promises
+- [ ] Publish/Subscribe
+- [ ] Push & Pull
+
+### Stability Patterns
+- [ ] Bulkheads
+- [ ] Circuit-Breaker
+- [ ] Deadline
+- [ ] Fall-Fast
+- [ ] Handshaking
+- [ ] Steady-State
+
+### Profiling Patterns
+- [ ] Timing Functions
+
+### Idioms
+- [ ] Functional Options
+
+### Anti-Patterns
+- [ ] Cascading Failures
+
+## References
 * [Design Patterns: Elements Reusable Object Book](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
 * [Sourcemaking](https://sourcemaking.com/design_patterns)
 * [Tmrts Go Patterns](http://tmrts.com/go-patterns)
