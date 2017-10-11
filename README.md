@@ -27,10 +27,10 @@ Collection of design pattern implementation in Go
 ## Behavioral patterns
 | Pattern          | Description |
 |------------------|-------------|
-| [Chain of Responsibility](https://github.com/girikuncoro/go-design-pattern/blob/master/chain-of-responsibility/chain-of-responsibility.go) |        |
-| [Command](https://github.com/girikuncoro/go-design-pattern/blob/master/command/command.go) |        |
-| [Interpreter](https://github.com/girikuncoro/go-design-pattern/blob/master/interpreter/interpreter.go) |        |
-| [Iterator](https://github.com/girikuncoro/go-design-pattern/blob/master/iterator/iterator.go) |        |
+| [Chain of Responsibility](https://github.com/girikuncoro/go-design-pattern/blob/master/chain-of-responsibility/chain-of-responsibility.go) | Avoid coupling the sender of a request to its receiver by giving more than one object a chance to handle the request. Chain the receiving objects and pass the request along the chain until an object handles it.       |
+| [Command](https://github.com/girikuncoro/go-design-pattern/blob/master/command/command.go) | Encapsulate a request as an object, thereby letting you parameterize clients with different requests, queue or log requests, and support undoable operations.       |
+| [Interpreter](https://github.com/girikuncoro/go-design-pattern/blob/master/interpreter/interpreter.go) | Given a language, define a representation for its grammar along with an interpreter that uses the representation to interpret sentences in the language.       |
+| [Iterator](https://github.com/girikuncoro/go-design-pattern/blob/master/iterator/iterator.go) | Provide a way to access the elements of an aggregate objevt sequentially without exposing its underlying its representation.        |
 | [Mediator](https://github.com/girikuncoro/go-design-pattern/blob/master/mediator/mediator.go) |        |
 | [Memento](https://github.com/girikuncoro/go-design-pattern/blob/master/memento/memento.go) |        |
 | [Null Object](https://github.com/girikuncoro/go-design-pattern/blob/master/null-object/null-object.go) |        |
